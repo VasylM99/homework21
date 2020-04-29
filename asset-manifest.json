@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/homework21/static/css/main.98b24718.chunk.css",
-    "main.js": "/homework21/static/js/main.3a9c28d5.chunk.js",
-    "main.js.map": "/homework21/static/js/main.3a9c28d5.chunk.js.map",
+    "main.css": "/homework21/static/css/main.6fe029be.chunk.css",
+    "main.js": "/homework21/static/js/main.fd2e601e.chunk.js",
+    "main.js.map": "/homework21/static/js/main.fd2e601e.chunk.js.map",
     "runtime-main.js": "/homework21/static/js/runtime-main.5b7778cc.js",
     "runtime-main.js.map": "/homework21/static/js/runtime-main.5b7778cc.js.map",
     "static/js/2.77b8deaa.chunk.js": "/homework21/static/js/2.77b8deaa.chunk.js",
     "static/js/2.77b8deaa.chunk.js.map": "/homework21/static/js/2.77b8deaa.chunk.js.map",
     "index.html": "/homework21/index.html",
-    "precache-manifest.f3049ffc3c62126fde76b208499bc544.js": "/homework21/precache-manifest.f3049ffc3c62126fde76b208499bc544.js",
+    "precache-manifest.23dffe7f6ac8bd09c440fd9dd9e8c15f.js": "/homework21/precache-manifest.23dffe7f6ac8bd09c440fd9dd9e8c15f.js",
     "service-worker.js": "/homework21/service-worker.js",
-    "static/css/main.98b24718.chunk.css.map": "/homework21/static/css/main.98b24718.chunk.css.map",
+    "static/css/main.6fe029be.chunk.css.map": "/homework21/static/css/main.6fe029be.chunk.css.map",
     "static/js/2.77b8deaa.chunk.js.LICENSE.txt": "/homework21/static/js/2.77b8deaa.chunk.js.LICENSE.txt",
     "static/media/style.css": "/homework21/static/media/Roboto-Regular.90679e0c.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.5b7778cc.js",
     "static/js/2.77b8deaa.chunk.js",
-    "static/css/main.98b24718.chunk.css",
-    "static/js/main.3a9c28d5.chunk.js"
+    "static/css/main.6fe029be.chunk.css",
+    "static/js/main.fd2e601e.chunk.js"
   ]
 }
