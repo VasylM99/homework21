@@ -9,6 +9,12 @@
     max-width: 700px;
     margin-bottom: 10px;
 }
+.layout-wrapper{
+    width: 100%;
+    padding-bottom: 100px;
+    background-color: #15202b;
+    padding-top: 10px;
+}
 
 .info{
     display: flex;
